@@ -1,3 +1,5 @@
+# To use in pihole list update:
+# https://raw.githubusercontent.com/hoookie/piholewhitelist/main/whitelist
 clients4.google.com
 clients2.google.com
 s.youtube.com
